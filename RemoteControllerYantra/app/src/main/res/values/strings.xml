@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RemoteControllerYantra</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="front_lab">front_lab</string>
+    <string name="front_right_lab">front_right_lab</string>
+    <string name="right_lab">right_lab</string>
+    <string name="right_bottom_lab">right_bottom_lab</string>
+    <string name="bottom_lab">bottom_lab</string>
+    <string name="bottom_left_lab">bottom_left_lab</string>
+    <string name="left_lab">left_lab</string>
+    <string name="left_front_lab">left_front_lab</string>
+    <string name="center_lab">center_lab</string>
+    <string name="Directions">Directions</string>
+    <string name="Send">Send</string>
+    <string name="toggle_turn_automatic">Automatic</string>
+    <string name="toggle_turn_manual">Manual</string>
+    <string name="HardBreak">Hard Break</string>
+    <string name="ten">50</string>
+    <string name="twenty">100</string>
+    <string name="thirty">200</string>
+    <string name="fourty">300</string>
+    <string name="fifty">400</string>
+</resources>
